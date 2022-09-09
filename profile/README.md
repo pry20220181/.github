@@ -11,4 +11,4 @@ A Vaccination Management System
 - Visualization of Vaccination Card
 - Registration of administration of a dose
 - Creation of Vaccination Campaigns
-- 
+- .....
