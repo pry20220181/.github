@@ -8,4 +8,7 @@ A Vaccination Management System
 - Scrum Master: Yohan Yi
 
 ## System Functionalities
-- F1, ...
+- Visualization of Vaccination Card
+- Registration of administration of a dose
+- Creation of Vaccination Campaigns
+- 
